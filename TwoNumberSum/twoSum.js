@@ -2,7 +2,7 @@
 // O(nlog(n)) time | O(1) space
 
 function twoNumberSum(array, targetSum) {
-  if (array.length < 1) return [];
+  if (array.length < 2) return [];
 
   // Sort array.
   const sortedArray = array.sort((a, b) => {
