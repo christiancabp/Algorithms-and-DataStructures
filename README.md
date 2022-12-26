@@ -8,11 +8,7 @@ To get started open the terminal and:
 
 2. run `npm test` to run all the tests in the `test` folder
 
-<-------------------------------------------------------------->
-
-1. run `npm install` to install dependancies.
-
-2. run `npm test` to run all the tests in the `test` folder
+<------------------------------------------------------>
 
 ### Sample test
 
