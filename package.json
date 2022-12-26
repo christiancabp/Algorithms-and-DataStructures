@@ -1,0 +1,15 @@
+{
+  "name": "twonumbersum",
+  "version": "1.0.0",
+  "description": "algorithm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000  --watch"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
